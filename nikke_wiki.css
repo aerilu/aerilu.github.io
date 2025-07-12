@@ -1,0 +1,17 @@
+.character-table {
+    display: grid;
+    gap: 1rem;
+    grid-template-rows: repeat(191px);
+    grid-template-columns: repeat(auto-fill, 140px);
+}
+
+.name {
+    position: absolute;
+    text-align: center;
+    transform: translate(0, 70px);
+    max-width:  138px;
+}
+
+.card-nikke-img {
+    width: 140px;
+}
