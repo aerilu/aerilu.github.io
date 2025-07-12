@@ -15,3 +15,34 @@
 .card-nikke-img {
     width: 140px;
 }
+
+.filter-selector {
+    display: grid;
+    gap: 0.2rem;
+    grid-template-columns: repeat(auto-fill, 3.8rem);
+    grid-template-rows: 3.8rem;
+}
+
+.rarity-ssr {
+    background: linear-gradient(#895751, #c9a36a);
+}
+
+.ssr-text {
+    color: #ffc006;
+}
+
+.rarity-sr {
+    background: linear-gradient(#36375b, #8a5fcc);
+}
+
+.sr-text {
+    color: #bf00fe;
+}
+
+.rarity-r {
+    background: linear-gradient(#353b60, #4072b9);
+}
+
+.r-text {
+    color: #0090ff;
+}

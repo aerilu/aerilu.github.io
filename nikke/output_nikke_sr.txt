@@ -1,0 +1,17 @@
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Anchor_card.webp" alt="Anchor"></img><span class="name">Anchor</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Anis_card.webp" alt="Anis"></img><span class="name">Anis</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Belorta_card.webp" alt="Belorta"></img><span class="name">Belorta</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Delta_card.webp" alt="Delta"></img><span class="name">Delta</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Ether_card.webp" alt="Ether"></img><span class="name">Ether</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Himeno_card.webp" alt="Himeno"></img><span class="name">Himeno</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Lily_card.webp" alt="Lily"></img><span class="name">Lily</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Mica_card.webp" alt="Mica"></img><span class="name">Mica</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Mihara_card.webp" alt="Mihara"></img><span class="name">Mihara</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Misato_card.webp" alt="Misato Katsuragi"></img><span class="name">Misato Katsuragi</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/N102_card.webp" alt="N102"></img><span class="name">N102</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Neon_card.webp" alt="Neon"></img><span class="name">Neon</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Neve_card.webp" alt="Neve"></img><span class="name">Neve</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Pascal_card.webp" alt="Pascal"></img><span class="name">Pascal</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Ram_card.webp" alt="Ram"></img><span class="name">Ram</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Rapi_card.webp" alt="Rapi"></img><span class="name">Rapi</span></div>
+<div class="card-nikke rarity-sr"><img class="card-nikke-img" loading="lazy" src="./images/characters/Sakura-Suzuhara_card.webp" alt="Sakura Suzuhara"></img><span class="name">Sakura Suzuhara</span></div>

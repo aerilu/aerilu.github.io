@@ -1,0 +1,9 @@
+<div class="card-nikke rarity-r"><img class="card-nikke-img" loading="lazy" src="./images/characters/iDoll-Flower_card.webp" alt="iDoll Flower"></img><span class="name">iDoll Flower</span></div>
+<div class="card-nikke rarity-r"><img class="card-nikke-img" loading="lazy" src="./images/characters/iDoll-Ocean_card.webp" alt="iDoll Ocean"></img><span class="name">iDoll Ocean</span></div>
+<div class="card-nikke rarity-r"><img class="card-nikke-img" loading="lazy" src="./images/characters/iDoll-Sun_card.webp" alt="iDoll Sun"></img><span class="name">iDoll Sun</span></div>
+<div class="card-nikke rarity-r"><img class="card-nikke-img" loading="lazy" src="./images/characters/Product-08_card.webp" alt="Product 08"></img><span class="name">Product 08</span></div>
+<div class="card-nikke rarity-r"><img class="card-nikke-img" loading="lazy" src="./images/characters/Product-12_card.webp" alt="Product 12"></img><span class="name">Product 12</span></div>
+<div class="card-nikke rarity-r"><img class="card-nikke-img" loading="lazy" src="./images/characters/Product-23_card.webp" alt="Product 23"></img><span class="name">Product 23</span></div>
+<div class="card-nikke rarity-r"><img class="card-nikke-img" loading="lazy" src="./images/characters/Soldier-EG_card.webp" alt="Soldier EG"></img><span class="name">Soldier EG</span></div>
+<div class="card-nikke rarity-r"><img class="card-nikke-img" loading="lazy" src="./images/characters/Soldier-FA_card.webp" alt="Soldier FA"></img><span class="name">Soldier FA</span></div>
+<div class="card-nikke rarity-r"><img class="card-nikke-img" loading="lazy" src="./images/characters/Soldier-OW_card.webp" alt="Soldier OW"></img><span class="name">Soldier OW</span></div>

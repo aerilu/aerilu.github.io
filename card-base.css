@@ -34,14 +34,29 @@ body {
     color: #fff;
 }
 
-.rarity-ssr {
-    background: linear-gradient(#895751, #c9a36a);
+.btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #353535;
+    font-size: 1.05rem;
+    color: #ebebeb;
+    font-weight: bold;
+    height: 2.8rem;
+    width: 4rem;
+    transition: all 500ms;
+    overflow: hidden;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
-.rarity-sr {
-    background: linear-gradient(#36375b, #8a5fcc);
+.btn:hover {
+    background-color: #666;
 }
 
-.rarity-r {
-    background: linear-gradient(#353b60, #4072b9);
+.btn.active {
+    background-color: #009eec;
+    color: white;
 }
